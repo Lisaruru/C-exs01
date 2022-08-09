@@ -1,0 +1,16 @@
+C:\Users\Administrator\C#\exs04\bin\Debug\net5.0\exs04.exe
+C:\Users\Administrator\C#\exs04\bin\Debug\net5.0\exs04.deps.json
+C:\Users\Administrator\C#\exs04\bin\Debug\net5.0\exs04.runtimeconfig.json
+C:\Users\Administrator\C#\exs04\bin\Debug\net5.0\exs04.runtimeconfig.dev.json
+C:\Users\Administrator\C#\exs04\bin\Debug\net5.0\exs04.dll
+C:\Users\Administrator\C#\exs04\bin\Debug\net5.0\ref\exs04.dll
+C:\Users\Administrator\C#\exs04\bin\Debug\net5.0\exs04.pdb
+C:\Users\Administrator\C#\exs04\obj\Debug\net5.0\exs04.csproj.AssemblyReference.cache
+C:\Users\Administrator\C#\exs04\obj\Debug\net5.0\exs04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\C#\exs04\obj\Debug\net5.0\exs04.AssemblyInfoInputs.cache
+C:\Users\Administrator\C#\exs04\obj\Debug\net5.0\exs04.AssemblyInfo.cs
+C:\Users\Administrator\C#\exs04\obj\Debug\net5.0\exs04.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\C#\exs04\obj\Debug\net5.0\exs04.dll
+C:\Users\Administrator\C#\exs04\obj\Debug\net5.0\ref\exs04.dll
+C:\Users\Administrator\C#\exs04\obj\Debug\net5.0\exs04.pdb
+C:\Users\Administrator\C#\exs04\obj\Debug\net5.0\exs04.genruntimeconfig.cache
