@@ -1,0 +1,16 @@
+C:\Users\Administrator\C#\exs01\obj\Debug\net5.0\exs01.csproj.AssemblyReference.cache
+C:\Users\Administrator\C#\exs01\obj\Debug\net5.0\exs01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\C#\exs01\obj\Debug\net5.0\exs01.AssemblyInfoInputs.cache
+C:\Users\Administrator\C#\exs01\obj\Debug\net5.0\exs01.AssemblyInfo.cs
+C:\Users\Administrator\C#\exs01\obj\Debug\net5.0\exs01.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\C#\exs01\bin\Debug\net5.0\exs01.exe
+C:\Users\Administrator\C#\exs01\bin\Debug\net5.0\exs01.deps.json
+C:\Users\Administrator\C#\exs01\bin\Debug\net5.0\exs01.runtimeconfig.json
+C:\Users\Administrator\C#\exs01\bin\Debug\net5.0\exs01.runtimeconfig.dev.json
+C:\Users\Administrator\C#\exs01\bin\Debug\net5.0\exs01.dll
+C:\Users\Administrator\C#\exs01\bin\Debug\net5.0\ref\exs01.dll
+C:\Users\Administrator\C#\exs01\bin\Debug\net5.0\exs01.pdb
+C:\Users\Administrator\C#\exs01\obj\Debug\net5.0\exs01.dll
+C:\Users\Administrator\C#\exs01\obj\Debug\net5.0\ref\exs01.dll
+C:\Users\Administrator\C#\exs01\obj\Debug\net5.0\exs01.pdb
+C:\Users\Administrator\C#\exs01\obj\Debug\net5.0\exs01.genruntimeconfig.cache
